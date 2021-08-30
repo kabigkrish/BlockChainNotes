@@ -1,6 +1,51 @@
 what is blockchain?
+	immutable distributed ledger.
+	Types: 
+	  1.Public Blockchain.
+	  2.Private Blockchain
+	  3.Hybrid.
+	  4.Sidechains - Allow users to move assets from two different block chains.
+
+
+How blockchain network works?
+
+->nodes uses consensus protocol to verify ledgers content.
+
 
 How to learn blockchain?
+ 1.learn basics.
+      a.read bitcoin white paper.
+ 2.learn RSA encryption.
+ 3.learn ECDSA(elliptic curve cryptography).
+ 4.Cryptographic hash function.
+ 5.merkle trees,merkle proofs.
+ 6.Distributed systems.
+ 7.Fault tolerance consensus algorithms(Paxos,RAFT).
+ 8.Byzantine fault-tolerant consensus.(PBFT)
+ 9.distributed hash tables.
+ 10.how TCP UDP works.
+ 11.p2p network design.
+basic skills: 
+ -distributed systems and networking 
+ -cryptography
+ -Data structures.
 
+Developer roles: 
+ ->Software developer 
+	-develops decentralized apps.
+	-smart contract development.
+ ->Core Blockchain developer.
 
+Books: 
+   1.Mastering Blockchain: Distributed ledger technology, decentralization, and smart contracts explained, 2nd edition.
+   2.Token Economy: How the Web3 reinvents the Internet. 
+   3.https://github.com/bitcoinbook/bitcoinbook 
+
+Links: 
+	1.solidity smart contracts - https://cryptozombies.io/en/course/
+	2.Important                -https://www.freecodecamp.org/news/the-authoritative-guide-to-blockchain-development-855ab65b58bc/?source=linkShare-c2655af1dedb-1544325301&_branch_match_id=960946697989824903
+
+	3.bitcoin protocol explained -https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/ 
+       4.bitcoin white paper - https://bitcoin.org/bitcoin.pdf 
+       5.https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/
 
